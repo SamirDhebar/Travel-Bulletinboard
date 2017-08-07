@@ -1,0 +1,29 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="./css/resets.css">
+		<link rel="stylesheet" type="text/css" href="./css/style.css">
+		<title>Travel Bulletinboard</title>
+	</head>
+	<body>
+
+		<h1>Travel Board</h1>
+
+		<p>
+			Add the countries you'd like to visit below!
+		</p>
+
+		<table>
+			<% for (let i = 0; i < messages.length; i++) { %>
+				<tr>
+				 <td><%= messages[i].title %> </td>
+				 <td><%= messages[i].body %> </td>
+				 <!-- <td><%= messages[i].created %> </td> -->
+				</tr>
+			<% } %>
+		</table>
+
+		<a href="/form">Post Your Countries Below!</a>
+
+	</body>
+
+</html>
