@@ -5,6 +5,8 @@
 
 html {
   background-image: url(http://i.imgur.com/ceEQYjz.jpg;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 body {
