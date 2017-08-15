@@ -1,0 +1,34 @@
+.photo {
+	background-repeat: no-repeat;
+  background-size: cover;
+}
+
+html {
+  background-image: url(http://i.imgur.com/ceEQYjz.jpg;
+}
+
+body {
+
+	padding-top: 38px;
+	padding-bottom: 8px;
+	font-family: "Arial Black", serif;
+	text-align: center;
+	font-size: 30px;
+	text-shadow: 2px 2px 8px silver;
+	color: maroon;
+}
+
+p {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+p1{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+p2 {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
