@@ -1,3 +1,5 @@
+<img src="assets/css/images/board.png" align="right" />
+
 ## Travel Bulletinboard [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/samirdhebar/travel_bulletinboard_express/master/LICENSE.md)
 
 ### Running this project
@@ -44,7 +46,7 @@
 
 ## Contribute
 
-Contributions are always welcome!
+* Contributions are always welcome!
 Please read the [contribution guidelines](Contributing.md) first.
 
 ### License
