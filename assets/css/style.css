@@ -1,34 +1,38 @@
 h1 {
-	padding-top: 18px;
+	padding-top: 87px;
 	padding-bottom: 8px;
 	font-family: "Book Antiqua", serif;
 	text-align: center;
 	font-size: 38px;
-	text-shadow: 2px 2px 8px blue;
-	color: purple;
-}
-
-p {
-	padding-top: 20px;
-	padding-bottom: 20px;
-	color: purple;
+	/*text-shadow: 2px 2px 8px blue;*/
+	color: black;
 }
 
 body {
 	background-image: url(http://i.imgur.com/GMO1DSH.png);
 	background-size: cover;
+	background-color: black;
 	font-family: monospace;
 	font-size: 15px;
 	text-align: center;
-	color: white;
 	text-shadow: 2px 2px 8px brown;
 	padding-left: 55px;
 }
 
 table, th, td {
+	 /*padding-top: 90px;*/
+	 padding-top: 10px;
+	 /*padding-right: 610px;*/
    border: 2px solid black;
+	 color: black;
 }
 
 a {
 	padding-top: 25px;
+}
+
+p {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	color: black;
 }
