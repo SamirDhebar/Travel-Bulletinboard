@@ -1,6 +1,6 @@
-<img src="assets/css/images/board.png" align="right" />
+<img src="assets/css/images/bulletinBoard.png" align="right" />
 
-## Travel Bulletinboard [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/samirdhebar/travel_bulletinboard_express/master/LICENSE.md)
+# Travel Bulletinboard [![MIT license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/samirdhebar/travel_bulletinboard_express/master/LICENSE.md)
 
 ### Running this project
 * To initialize the project `npm install` to install the packages for this project
