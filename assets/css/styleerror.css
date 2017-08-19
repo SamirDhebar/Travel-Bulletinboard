@@ -1,6 +1,7 @@
 .photo {
 	background-repeat: no-repeat;
   background-size: cover;
+	background-color: #FFFFFF
 }
 
 html {
@@ -25,7 +26,7 @@ p {
 	padding-bottom: 10px;
 }
 
-p1{
+p1 {
 	padding-top: 15px;
 	padding-bottom: 15px;
 }
