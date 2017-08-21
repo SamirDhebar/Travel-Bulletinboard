@@ -65,4 +65,4 @@ Please read the [contribution guidelines](Contributing.md) first.
 <br>
 
 ## License
- <img src="assets/css/images/mitLicense.png" align= "center" /> This project is available the under the [MIT License](https://github.com/samirdhebar/travel_bulletinboard_express/blob/master/LICENSE.md).
+ <img src="assets/css/images/mitLicense.png" align= "center" /> <br><br>This project is available the under the [MIT License](https://github.com/samirdhebar/travel_bulletinboard_express/blob/master/LICENSE.md).
