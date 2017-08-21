@@ -48,12 +48,15 @@
 ## Languages and Stuff Used for this Project:
 
 
-<img src="assets/css/images/node.png" align= "center" /> <br><br>  * Node is a multi-platform, open-source Javascript run-time environment that executes code on the server-side.
+<img src="assets/css/images/node.png" align= "center" /> <br><br>  
+* Node is a multi-platform, open-source Javascript run-time environment that executes code on the server-side.
 <br><br>
 
-<img src="assets/css/images/express.png" align="left" /> <br><br> * Express is a web application framework for Node.js which acts as its de facto standard server framework
+<img src="assets/css/images/express.png" align="left" /> <br><br>
+* Express is a web application framework for Node.js which acts as its de facto standard server framework
 <br><br>
-<img src="assets/css/images/postgres.png" align="left" /> <br><br><br><br> * PostgreSQL is an object-relational database management system which stores and fetches data securely in response to requests from other software applications.
+<img src="assets/css/images/postgres.png" align="left" /> <br><br><br><br>
+* PostgreSQL is an object-relational database management system which stores and fetches data securely in response to requests from other software applications.
 <br>
 <br>
 
@@ -65,4 +68,5 @@ Please read the [contribution guidelines](Contributing.md) first.
 <br>
 
 ## License
- <img src="assets/css/images/mitLicense.png" align= "center" /> <br><br> * This project is available the under the [MIT License](https://github.com/samirdhebar/travel_bulletinboard_express/blob/master/LICENSE.md).
+ <img src="assets/css/images/mitLicense.png" align= "center" /> <br><br>
+ * This project is available the under the [MIT License](https://github.com/samirdhebar/travel_bulletinboard_express/blob/master/LICENSE.md).
