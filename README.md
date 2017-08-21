@@ -58,8 +58,6 @@
 <img src="assets/css/images/postgres.png" align="left" /> <br><br><br><br>
 * PostgreSQL is an object-relational database management system which stores and fetches data securely in response to requests from other software applications.
 <br>
-<br>
-
 
 ## Contribute
 
