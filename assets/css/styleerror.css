@@ -1,7 +1,6 @@
 
 
-html {
-  background-image: url("assets/images/404.jpg");
-	background-repeat: no-repeat;
-	background-position: cover;
+body {
+  background-image: url("/css/images/alcoholError.png");
+	background-size: 100%;
 }
